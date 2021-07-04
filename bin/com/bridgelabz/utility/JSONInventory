@@ -1,0 +1,31 @@
+{
+
+     "listOfItem":[
+	 
+	 {"name":"rice"
+	    "price":50,
+		"weight":1
+	 
+	 
+	 }
+	 
+	  
+	 {"name":"wheat"
+	    "price":49,
+		"weight":1
+	 
+	 
+	 }
+	  
+	 {"name":"pulses"
+	    "price":60,
+		"weight":1
+	 
+	 
+	 }
+	 
+	 
+	 
+	 
+	 ]
+}
